@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "opensea-bloackchain"
+    "name": "opensea-app"
   },
   "api": {
-    "projectId": "h59b8gsm",
+    "projectId": "qjakr8w6",
     "dataset": "production"
   },
   "plugins": [
