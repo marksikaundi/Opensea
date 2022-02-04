@@ -37,7 +37,7 @@ const Hero = () => {
           <div className={style.cardContainer}>
             <img
               className="rounded-t-lg"
-              src="https://lh3.googleusercontent.com/ujepnqpnL0nDQIHsWxlCXzyw4pf01yjz1Jmb4kAQHumJAPrSEj0-e3ABMZlZ1HEpJoqwOcY_kgnuJGzfXbd2Tijri66GXUtfN2MXQA=s550"
+              src="https://lh3.googleusercontent.com/V3WU5skoHvCfvfMLgL5gm4NPoBjpU4gTmOkz8d561r09FrMC-UN-h5vDNbgVKsoNzQ2NdIQPGxC-8mHmd5tPmqbvUEaTPZdB0HNP=s550"
               alt=""
             />
             <div className={style.infoContainer}>
@@ -47,7 +47,7 @@ const Hero = () => {
                 alt=""
               />
               <div className={style.author}>
-                <div className={style.name}>Jolly</div>
+                <div className={style.name}>Mark SiKaundi</div>
                 <a
                   className="text-[#1868b7]"
                   href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/2324922113504035910649522729980423429926362207300810036887725141691069366277"
